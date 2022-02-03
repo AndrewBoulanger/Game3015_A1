@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\andre\Downloads\DirectX\DirectX-master\Game3015_ABoulanger\x64\Debug\Game3015_ABoulanger.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\andre\Downloads\DirectX\DirectX-master\Game3015_ABoulanger\x64\Debug\PS1.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\andre\Downloads\DirectX\DirectX-master\Game3015_ABoulanger\x64\Debug\VS1.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
