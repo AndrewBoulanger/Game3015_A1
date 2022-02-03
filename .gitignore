@@ -19,3 +19,13 @@ Week14/
 Week15/
 Textures/
 Docs/
+
+Game3015_ABoulanger/.vs/
+Game3015_ABoulanger/x64/
+Debug/
+x64/
+
+*.suo
+*.obj
+Game3015_ABoulanger/.vs/Game3015_ABoulanger/v16/.suo
+*.tlog

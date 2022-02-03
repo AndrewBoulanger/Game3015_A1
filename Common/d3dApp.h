@@ -44,7 +44,7 @@ protected:
     virtual void CreateRtvAndDsvDescriptorHeaps();
 	virtual void OnResize(); 
 	virtual void Update(const GameTimer& gt)=0;
-    virtual void Draw(const GameTimer& gt)=0;
+    virtual void Render(const GameTimer& gt)=0;
 
 	// Convenience overrides for handling mouse input.
 	virtual void OnMouseDown(WPARAM btnState, int x, int y){ }
@@ -88,6 +88,7 @@ protected:
 
 	// Used to keep track of the “delta-time” and game time.
 	GameTimer mTimer;
+    int mFrameCount = 0;
 	
     Microsoft::WRL::ComPtr<IDXGIFactory4> mdxgiFactory;
     Microsoft::WRL::ComPtr<IDXGISwapChain> mSwapChain;
